@@ -63,3 +63,7 @@ This task , named `Task 10`, consists of a simple registration form built with H
      ```html
      <script src="script.js"></script>
      ```
+
+
+
+Uploaded the screenshots for proving the same.
